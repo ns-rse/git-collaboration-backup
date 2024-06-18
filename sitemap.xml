@@ -10,6 +10,9 @@
     <loc>ns-rse.github.io/git-collaboration/LICENSE.html</loc>
   </url>
   <url>
+    <loc>ns-rse.github.io/git-collaboration/aio.html</loc>
+  </url>
+  <url>
     <loc>ns-rse.github.io/git-collaboration/branching.html</loc>
   </url>
   <url>
@@ -25,6 +28,9 @@
     <loc>ns-rse.github.io/git-collaboration/hooks.html</loc>
   </url>
   <url>
+    <loc>ns-rse.github.io/git-collaboration/images.html</loc>
+  </url>
+  <url>
     <loc>ns-rse.github.io/git-collaboration/index.html</loc>
   </url>
   <url>
@@ -35,6 +41,9 @@
   </url>
   <url>
     <loc>ns-rse.github.io/git-collaboration/instructor/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>ns-rse.github.io/git-collaboration/instructor/aio.html</loc>
   </url>
   <url>
     <loc>ns-rse.github.io/git-collaboration/instructor/branching.html</loc>
@@ -52,10 +61,19 @@
     <loc>ns-rse.github.io/git-collaboration/instructor/hooks.html</loc>
   </url>
   <url>
+    <loc>ns-rse.github.io/git-collaboration/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>ns-rse.github.io/git-collaboration/instructor/index.html</loc>
   </url>
   <url>
+    <loc>ns-rse.github.io/git-collaboration/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>ns-rse.github.io/git-collaboration/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>ns-rse.github.io/git-collaboration/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>ns-rse.github.io/git-collaboration/instructor/profiles.html</loc>
@@ -70,7 +88,13 @@
     <loc>ns-rse.github.io/git-collaboration/instructor/reviewing.html</loc>
   </url>
   <url>
+    <loc>ns-rse.github.io/git-collaboration/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>ns-rse.github.io/git-collaboration/introduction.html</loc>
+  </url>
+  <url>
+    <loc>ns-rse.github.io/git-collaboration/key-points.html</loc>
   </url>
   <url>
     <loc>ns-rse.github.io/git-collaboration/profiles.html</loc>
